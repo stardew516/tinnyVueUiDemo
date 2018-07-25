@@ -1,5 +1,6 @@
 # tinny-vue-ui使用方法 同vux
 
+# 演示地址：https://stardew516.github.io/tinnyVueUiDemo/dist/index.html
 > A Vue.js project
 
 ## Build Setup
