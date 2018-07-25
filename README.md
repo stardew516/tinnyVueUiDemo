@@ -1,4 +1,4 @@
-# myvueui
+# tinny-vue-ui使用方法 同vux
 
 > A Vue.js project
 
